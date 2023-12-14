@@ -4,5 +4,7 @@ This repository contains a sales dashboard for Adidas created using Power BI. Th
 
 ### Features:
 Visual representation of sales data
+
 Dynamic filtering for customized analysis
+
 Intuitive design for user-friendly experience
